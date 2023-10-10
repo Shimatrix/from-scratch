@@ -1,0 +1,7 @@
+.cover {
+    background-image: url(../../images/cover.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    margin: 7px 0 30px 20px;
+}

@@ -1,0 +1,12 @@
+.content-section__list-item {
+    margin-bottom: 16px;
+    color: #131313;
+    font-family: "inter", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 21.6px;
+    font-weight: 400;
+}
+
+.content-section__list-item:last-of-type {
+    margin-bottom: 0px;
+}

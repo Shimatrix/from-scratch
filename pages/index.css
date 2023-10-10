@@ -1,0 +1,58 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/page/page.css);
+/*Начало секция header*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu/__menu-list/header__menu-list.css);
+@import url(../blocks/header/__menu/__menu-item/header__menu-item.css);
+@import url(../blocks/header/__menu/__menu-item/_active/header__menu-item_active.css);
+@import url(../blocks/header/__menu/__menu-link/header__menu-link.css);
+/*Конец секция header*/
+/*Начало секция cover*/
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/accent-span/accent-span.css);
+@import url(../blocks/accent-span/text-center.css);
+@import url(../blocks/accent-span/text-right.css);
+/*Конец секция cover*/
+/*Начало секция intro*/
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__heading/intro__heading.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__date/intro__date.css);
+@import url(../blocks/intro/__main-text/intro__main-text.css);
+/*Конец секция intro*/
+/*Начало секция reasons*/
+@import url(../blocks/reasons/reasons.css);
+@import url(../blocks/content-section/__subtitle/content-section__subtitle.css);
+@import url(../blocks/content-section/__introduction/content-section__introduction.css);
+@import url(../blocks/content-section/__list/content-section__list.css);
+@import url(../blocks/content-section/__list-item/content-section__list-item.css);
+@import url(../blocks/content-section/__list-accent/content-section__list-accent.css);
+/*Конец секция reasons*/
+/*Начало секция how-to*/
+@import url(../blocks/card/_theme/_bright/card_theme_bright.css);
+@import url(../blocks/card/_theme/_dark/card_theme_dark.css);
+@import url(../blocks/how-to/_theme/how-to_theme_white.css);
+@import url(../blocks/cards-list/cards-list.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__author/card__author.css);
+@import url(../blocks/card/__author-photo/card__author-photo.css);
+@import url(../blocks/card/__author-name/card__author-name.css);
+@import url(../blocks/card/__content/card__content.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/card/__text/_theme-dark/card__text_theme-dark.css);
+@import url(../blocks/card/_text-only/card_text-only.css);
+@import url(../blocks/cards-list/__gap-null/cards-list__gap-null.css);
+/*Конец секция how-to*/
+/*Начало секция footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copy/footer__copy.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__item/footer__item.css);
+@import url(../blocks/footer/__link/footer__link.css);
+/*Конец секция footer*/
